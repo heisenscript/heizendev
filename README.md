@@ -35,6 +35,16 @@ I love writing code, and here's a quick overview:
 
 <!--START_SECTION:waka-->
 
+```txt
+From: 18 April 2024 - To: 15 June 2024
+
+Total Time: 1 min
+
+Markdown   1 min           ██████████████████████▒░░   89.62 %
+JSON       0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+Docker     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+```
+
 <!--END_SECTION:waka-->
 
 ### Let's connect and explore exciting opportunities together! 🚀
