@@ -26,8 +26,7 @@ Feel free to reach out! I might be a bit slow to respond, but I'm always open to
 
 
 - Email:[me@me.com](mailto:me@)
-- [Twitter](https://twitter.com/heisenscript
-
+- [Twitter]
 
 ## Coding Stats 📊
 
