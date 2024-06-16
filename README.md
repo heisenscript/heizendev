@@ -36,13 +36,15 @@ I love writing code, and here's a quick overview:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 April 2024 - To: 15 June 2024
+From: 03 April 2024 - To: 16 June 2024
 
-Total Time: 1 min
+Total Time: 58 hrs 12 mins
 
-Markdown   1 min           ██████████████████████▒░░   89.62 %
-JSON       0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
-Docker     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+Markdown     40 hrs 16 mins  ████████████████░░░░░░░░░   63.82 %
+Text         11 hrs 18 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
+Other        4 hrs 53 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
+PowerShell   3 hrs 44 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+JavaScript   1 hr 9 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 ```
 
 <!--END_SECTION:waka-->
