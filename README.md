@@ -28,7 +28,7 @@ I love writing code, and here's a quick overview:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 April 2024 - To: 15 July 2024
+From: 03 April 2024 - To: 22 July 2024
 
 Total Time: 58 hrs 12 mins
 
